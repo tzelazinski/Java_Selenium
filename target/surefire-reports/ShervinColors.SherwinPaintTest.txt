@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ShervinColors.SherwinPaintTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.921 s - in ShervinColors.SherwinPaintTest
